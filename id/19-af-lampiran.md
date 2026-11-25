@@ -10,7 +10,7 @@
 | Maker / Taker | Order yang lebih dulu / yang belakangan dalam suatu match |
 | Operator · Relayer | Pengirim match ke kontrak · pengirim order tanpa gas yang membayar gasnya |
 | OXG | Kapasitas gas yang terisi ulang dari Oxly Gas Staking, tidak bisa ditransfer |
-| EGF · TGE | Ecosystem Growth Fund · Token Generation Event (25 Nov 2026 00:00 UTC) |
+| EGF · TGE | Ecosystem Growth Fund · Token Generation Event (28 Nov 2026 00:00 UTC) |
 | Free float | OXLY beredar yang tidak tertahan di staking atau treasury |
 | Bulan kontrak | 365/12 hari |
 
@@ -44,7 +44,7 @@
 
 | Sesi | Sesi Berakhir (UTC) | Tenggat Klaim (UTC) |
 |---|---|---|
-| Sesi 1 | 24 Feb 2027, 06:00 | **25 Mei 2027, 06:00** |
+| Sesi 1 | 27 Feb 2027, 06:00 | **28 Mei 2027, 06:00** |
 | Sesi 2–8 | Ditetapkan pada pengumuman masing-masing sesi | 90 hari setelah sesi berakhir |
 
 ## E. Alamat Kontrak

@@ -8,7 +8,7 @@
 
 | Sesi | Periode (UTC) | Kuota | Porsi |
 |---|---|---:|---:|
-| 1 | 25 Nov 2026 – 24 Feb 2027 (klaim s.d. 25 Mei 2027) | 30 jt | 20,0% |
+| 1 | 28 Nov 2026 – 27 Feb 2027 (klaim s.d. 28 Mei 2027) | 30 jt | 20,0% |
 | 2 | Diumumkan terpisah | 25 jt | 16,7% |
 | 3 | Diumumkan terpisah | 22 jt | 14,7% |
 | 4 | Diumumkan terpisah | 18 jt | 12,0% |

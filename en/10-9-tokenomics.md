@@ -79,7 +79,7 @@ Unclaimed airdrop rewards and unused staking emission quotas are **never minted*
 
 | Timeline | Event and Circulating Supply Projection |
 |---|---|
-| **TGE (25 November 2026)** | ≈ 0 OXLY circulating; linear Operational Cost release begins at ±14,800 OXLY per day. |
+| **TGE (28 November 2026)** | ≈ 0 OXLY circulating; linear Operational Cost release begins at ±14,800 OXLY per day. |
 | **Month 3 (February 2027)** | Airdrop Session 1 distribution ends (±30,000,000 OXLY); estimated circulating supply reaches ±32,000,000 OXLY. |
 | **Month 6 (May 2027)** | First quarterly Core Contributors tranche; linear Foundation & Operations release begins. |
 | **Month 54 (May 2031)** | Foundation & Operations vesting completes (70,000,000 OXLY). |

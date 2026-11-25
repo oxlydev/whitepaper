@@ -8,7 +8,7 @@
 |---|---|
 | Token | OXLY · BEP-20 di BNB Smart Chain |
 | Jaringan | BNB Smart Chain · Ethereum · Solana |
-| Token Generation Event | 25 November 2026, 00:00 UTC |
+| Token Generation Event | 28 November 2026, 00:00 UTC |
 
 {% hint style="warning" %}
 Dokumen ini hanya untuk tujuan informasi dan bukan penawaran, ajakan, atau rekomendasi atas aset apa pun, serta bukan nasihat investasi, hukum, pajak, atau keuangan. Skenario dan angka di dalamnya bersifat ilustratif, bukan prediksi atau janji. Bacalah Bab 17 sebelum memakai platform atau memperoleh OXLY. Jika ada perbedaan dengan versi bahasa Inggris, versi bahasa Inggris yang berlaku.

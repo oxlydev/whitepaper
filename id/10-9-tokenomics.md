@@ -79,7 +79,7 @@ Alokasi reward airdrop yang tidak diklaim serta kuota emisi staking yang tidak t
 
 | Linimasa / Periode | Peristiwa dan Proyeksi Supply Beredar |
 |---|---|
-| **TGE (25 November 2026)** | ≈ 0 OXLY beredar; pelepasan linear Operational Cost mulai berjalan pada laju ±14.800 OXLY per hari. |
+| **TGE (28 November 2026)** | ≈ 0 OXLY beredar; pelepasan linear Operational Cost mulai berjalan pada laju ±14.800 OXLY per hari. |
 | **Bulan ke-3 (Februari 2027)** | Periode distribusi Airdrop Sesi 1 berakhir (±30.000.000 OXLY); total estimasi beredar mencapai ±32.000.000 OXLY. |
 | **Bulan ke-6 (Mei 2027)** | Pelepasan tranche kuartalan pertama untuk Core Contributors; jadwal pelepasan linear Foundation & Operations resmi dimulai. |
 | **Bulan ke-54 (Mei 2031)** | Seluruh periode vesting alokasi Foundation & Operations selesai (70.000.000 OXLY). |

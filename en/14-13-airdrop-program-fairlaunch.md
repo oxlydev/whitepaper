@@ -8,7 +8,7 @@
 
 | Session | Period (UTC) | Quota | Share |
 |---|---|---:|---:|
-| 1 | 25 Nov 2026 – 24 Feb 2027 (claims until 25 May 2027) | 30M | 20.0% |
+| 1 | 28 Nov 2026 – 27 Feb 2027 (claims until 28 May 2027) | 30M | 20.0% |
 | 2 | Announced separately | 25M | 16.7% |
 | 3 | Announced separately | 22M | 14.7% |
 | 4 | Announced separately | 18M | 12.0% |

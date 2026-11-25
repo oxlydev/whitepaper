@@ -10,7 +10,7 @@
 | Maker / Taker | The earlier / the later order in a match |
 | Operator · Relayer | Submits matches to the contract · submits gas-free orders and pays their gas |
 | OXG | Regenerating, non-transferable gas capacity from Oxly Gas Staking |
-| EGF · TGE | Ecosystem Growth Fund · Token Generation Event (25 Nov 2026 00:00 UTC) |
+| EGF · TGE | Ecosystem Growth Fund · Token Generation Event (28 Nov 2026 00:00 UTC) |
 | Free float | Circulating OXLY not held in staking or the treasury |
 | Contract month | 365/12 days |
 
@@ -44,7 +44,7 @@
 
 | Session | Session Ends (UTC) | Claim Deadline (UTC) |
 |---|---|---|
-| Session 1 | 24 Feb 2027, 06:00 | **25 May 2027, 06:00** |
+| Session 1 | 27 Feb 2027, 06:00 | **28 May 2027, 06:00** |
 | Sessions 2–8 | Set in each session's announcement | 90 days after the session ends |
 
 ## E. Contract Addresses
